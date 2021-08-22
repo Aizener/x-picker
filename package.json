@@ -1,0 +1,15 @@
+{
+  "name": "x-picker",
+  "version": "1.0.0",
+  "description": "一个基于Vue3.0的简单Picker组件",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue3",
+    "picker"
+  ],
+  "author": "",
+  "license": "ISC"
+}
